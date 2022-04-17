@@ -1,3 +1,10 @@
+#Adding files
+.ipynb_checkpoints
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+archive.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
